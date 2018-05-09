@@ -1,3 +1,0 @@
-id|name
-1|raj
-2|raj1
